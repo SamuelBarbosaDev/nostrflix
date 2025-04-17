@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--  Cores Customizadas nostrflix  -->
+    <color name="primary">#E70001</color>
+    <color name="primary_variation">#AA0407</color>
+    <color name="secondary">#EF7000</color>
+    <color name="background">#171417</color>
 </resources>
